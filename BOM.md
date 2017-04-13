@@ -28,3 +28,14 @@ Most parts can be purchased just about everywhere.
 | 15    | 2             | 8pin straight female header |
 | 16    | 1             | 6pin straight female header |
 | 17    | 1             | 4pin straight female header |
+
+You will need some wire to connect the parts on the breadboards.
+
+I use some color coding on my boards
+
+| Color | Used as: |
+| :-----: | ----- |
+| Red    | 12 Volt from PSU   |
+| Green  | 12 Volt from LED strip to mosfet drain
+| Black  | To ground
+| Grey   | I2C data/clock
