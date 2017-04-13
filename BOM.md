@@ -35,7 +35,8 @@ I use some color coding on my boards
 
 | Color | Used as: |
 | :-----: | ----- |
-| Red    | 12 Volt from PSU   |
-| Green  | 12 Volt from LED strip to mosfet drain
-| Black  | To ground
-| Grey   | I2C data/clock
+| Red    | 12 Volt from PSU
+| Red    | 5 Volt from 7805 output to D1 mini 5V input. 
+| Green  | 12 Volt from LED strip to mosfet drain.
+| Black  | To ground.
+| Grey   | I2C data/clock lines.
