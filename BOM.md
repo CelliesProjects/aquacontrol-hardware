@@ -3,7 +3,7 @@
 This BOM lists the parts needed to build a 5 channel LED controller.
 The built hardware can be controlled with the Aquacontrol2 software.
 
-### Items needed to assemble a Aquacontroller.
+#### Parts needed to build the Aquacontroller hardware.
 
 Most parts can be purchased just about everywhere.
 <br>Specific parts which I found hard to source have a link to the the webshop I use to buy the item.
@@ -29,9 +29,10 @@ Most parts can be purchased just about everywhere.
 | 16    | 1             | 6pin straight female header |
 | 17    | 1             | 4pin straight female header |
 
-You will need some wire to connect the parts on the breadboards.
+### Wiring
+You will also need some wire and some electronics solder to connect the parts on the breadboards.
 
-I use some color coding on my boards
+I use color coded wiring on my boards:
 
 | Color | Used as: |
 | :-----: | ----- |
