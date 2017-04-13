@@ -15,6 +15,8 @@ Most parts can be purchased just about everywhere.
 | 7     | 2             | 1/4W 4.7K I2C pullup resistor    | 
 | 8     | 1             | 7805 voltage regulator    |
 | 9     | 1             | N4001 diode    | 
-| 10    | 5             | 0.22uF 50V electrolytic capacitor    | 
-| 11    | 5             | 0.1uF ceramic capacitor    | 
-| 12    | 5             | 6pin terminal block    | 
+| 10    | 1             | 0.22uF 50V electrolytic capacitor    | 
+| 11    | 1             | 0.1uF ceramic capacitor    | 
+| 12    | 1             | 6pin terminal block    | 
+| 13    | 4             | Arduino 8pin stackable shield header |
+| 14    | 2             | 8pin female header |
