@@ -1,6 +1,9 @@
-### Items needed to assemble a Aquacontroller.
+## Description.
 
-This BOM describes the parts needed to build a 5 channel LED controller.
+This BOM lists the parts needed to build a 5 channel LED controller.
+The built hardware can be controlled with the Aquacontrol2 software.
+
+### Items needed to assemble a Aquacontroller.
 
 Most parts can be purchased just about everywhere.
 <br>Specific parts which I found hard to source have a link to the the webshop I use to buy the item.
@@ -18,10 +21,10 @@ Most parts can be purchased just about everywhere.
 | 8     | 1             | 7805 voltage regulator    |
 | 9     | 1             | N4001 diode    | 
 | 10    | 1             | 0.22uF 50V electrolytic capacitor    | 
-| 11    | 1             | 0.1uF ceramic capacitor    | 
-| 12    | 1             | 6pin terminal block    | 
-| 13    | 4             | Arduino 8pin straight stackable shield header |
-| 14    | 1             | Arduino 6pin straight stackable shield header |
+| 11    | 1             | 0.1uF 50V ceramic capacitor    | 
+| 12    | 1             | 6pin terminal block    | [ebay.com](http://www.ebay.com/itm/10Pcs-2-54mm-0-1-Universal-6-Pin-6-Poles-PCB-Screw-Terminal-Block-Connector/182310502636)
+| 13    | 4             | Arduino 8pin straight stackable shield header | Pin length equal to POS 14!
+| 14    | 1             | Arduino 6pin straight stackable shield header | Pin length equal to POS 13!
 | 15    | 2             | 8pin straight female header |
 | 16    | 1             | 6pin straight female header |
 | 17    | 1             | 4pin straight female header |
