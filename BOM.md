@@ -42,16 +42,12 @@ I use color coded wiring on my boards:
 | Black  | To ground.
 | Grey   | I2C data/clock lines.
 
-## Images:
+### Images:
 
-1. #### Wemos D1 mini MCU:
-![wemos-d1-mini-small](https://cloud.githubusercontent.com/assets/24290108/25041455/659e4bdc-2110-11e7-8824-fadc77a6a3cf.jpg)
+1. Wemos D1 mini MCU:<br>![wemos-d1-mini-small](https://cloud.githubusercontent.com/assets/24290108/25041455/659e4bdc-2110-11e7-8824-fadc77a6a3cf.jpg)
 
-1. #### breadboard PCB:
-![breadboard_pcb_mw-201_small](https://cloud.githubusercontent.com/assets/24290108/25041189/a5c55fa4-210e-11e7-9007-787b08e0d6ac.jpg)
+1. Breadboard PCB:<br>![breadboard_pcb_mw-201_small](https://cloud.githubusercontent.com/assets/24290108/25041189/a5c55fa4-210e-11e7-9007-787b08e0d6ac.jpg)
 
-1. #### DC barrel jack with thin pins:
-![dc-barrel-jack-small](https://cloud.githubusercontent.com/assets/24290108/25041190/a5ca3d08-210e-11e7-90db-d32be9c45fe4.jpg)
+1. DC barrel jack with thin pins:<br>![dc-barrel-jack-small](https://cloud.githubusercontent.com/assets/24290108/25041190/a5ca3d08-210e-11e7-90db-d32be9c45fe4.jpg)
 
-1. #### 6pin terminal block:
-![6pin_terminal](https://cloud.githubusercontent.com/assets/24290108/25041576/4161bce4-2111-11e7-9407-9a6ec3af9b88.jpg)
+1. 6pin terminal block:<br>![6pin_terminal](https://cloud.githubusercontent.com/assets/24290108/25041576/4161bce4-2111-11e7-9407-9a6ec3af9b88.jpg)
