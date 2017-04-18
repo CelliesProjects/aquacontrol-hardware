@@ -48,6 +48,8 @@ I use color coded wiring on my boards:
 
 1. Breadboard PCB:<br>![breadboard_pcb_mw-201_small](https://cloud.githubusercontent.com/assets/24290108/25041189/a5c55fa4-210e-11e7-9007-787b08e0d6ac.jpg)
 
+1. 128x64 I2C OLED display:<br>![oled_small](https://cloud.githubusercontent.com/assets/24290108/25148812/7caad560-247c-11e7-8bd6-ad744d01a43e.jpg)
+
 1. DC barrel jack with thin pins:<br>![dc-barrel-jack-small](https://cloud.githubusercontent.com/assets/24290108/25041190/a5ca3d08-210e-11e7-90db-d32be9c45fe4.jpg)
 
 1. 6pin terminal block:<br>![6pin_terminal](https://cloud.githubusercontent.com/assets/24290108/25041576/4161bce4-2111-11e7-9407-9a6ec3af9b88.jpg)
