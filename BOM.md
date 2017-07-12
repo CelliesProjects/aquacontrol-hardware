@@ -14,7 +14,7 @@ Most parts can be purchased just about everywhere.
 | 1     | 1             | WeMos D1 mini    | [ebay.com](http://www.ebay.com/itm/191787524741?_trksid=p2057872.m2749.l2649&ssPageName=STRK%3AMEBIDX%3AIT)
 | 2     | 3             | breadboard PCB   | [hackerstore.nl](https://hackerstore.nl/Artikel/831) or [aliexpress.com](https://www.aliexpress.com/store/product/Universal-Breadboard-400-point-MW-201-Solderless-Prototype-Bread-board-PCB-for-arduino-raspberry-pi-2/1270976_32398566022.html)
 | 3     | 1             | 128 x 64 I2C OLED    | [ebay.com](http://www.ebay.com/itm/0-96-I2C-IIC-SPI-Serial-128X64-White-OLED-LCD-LED-Display-Module-for-Arduino-ZD-/282416950341?hash=item41c15cac45:g:eygAAOSwHsRYEd61)
-| 4     | 1             | 2.1MM DC BARREL JACK - breadboard friendly   | [kiwi-electronics.nl](https://www.kiwi-electronics.nl/2.1mm-DC-barrel-jack-Breadboard-compatible) or [aliexpress.com](https://www.aliexpress.com/item/Breadboard-friendly-3-5-1-3mm-DC-barrel-jack-for-raspberry-pi-for-bread-board-A206/32694934128.html)
+| 4     | 1             | 2.1MM DC BARREL JACK - breadboard friendly   | [kiwi-electronics.nl](https://www.kiwi-electronics.nl/2.1mm-DC-barrel-jack-Breadboard-compatible) or [aliexpress.com](https://www.aliexpress.com/item/10pcs-Breadboard-friendly-2-1mm-DC-Barrel-Jack/32818058518.html)
 | 5     | 5             | IRLZ44N mosfet   | 
 | 6     | 5             | 1/4W 470R gate resistor    | 
 | 7     | 2             | 1/4W 4.7K I2C pullup resistor    | 
