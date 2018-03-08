@@ -1,7 +1,7 @@
 ## Description.
 
 This BOM lists the parts needed to build a 5 channel LED controller.
-The built hardware can be controlled with the Aquacontrol2 software.
+The built hardware can be controlled with the [Aquacontrol2](https://github.com/CelliesProjects/aquacontrol2) or [Aquacontrol32](https://github.com/CelliesProjects/aquacontrol32) software.
 
 #### Parts needed to build the Aquacontroller hardware.
 
